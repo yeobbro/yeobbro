@@ -110,7 +110,7 @@
 
 | 프로젝트 | 소개 | 링크 |
 |---|---|---|
-| **늘곁 (Neulgyeot)** | AI 기반 지역사회 돌봄 지원 플랫폼 — 생활 패턴 · 돌봄 기록으로 담당자가 먼저 확인할 대상을 판단하도록 설계 | [repo](https://github.com/yeobbro/Neulgyeot) |
+| **늘곁 (Neulgyeot)** | AI 기반 지역사회 돌봄 지원 플랫폼 — 생활 패턴 · 돌봄 기록으로 담당자가 먼저 확인할 대상을 판단하도록 설계 (가상 데이터 데모 체험 가능) | [데모](https://www.krewx.com/neulgyeot) · [repo](https://github.com/yeobbro/Neulgyeot) |
 | **흉부 X-ray 폐렴 분류 AI** | PyTorch · CNN · 전이학습으로 정상 / 폐렴 분류 모델의 전처리 · 학습 · 평가 수행 (교육 프로젝트) | — |
 
 <p align="center">
